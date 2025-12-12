@@ -12,3 +12,6 @@ body{
     justify-content: center; /* horizontal */
     align-items: center; /* vertical */
 }
+img {
+    border-radius: 16px;
+}
