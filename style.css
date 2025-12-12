@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* refenciar a borda nela mesma */
+}
+
+
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex; /* display flexivel (block, aline ... -> flexivel agora) */
+    justify-content: center; /* horizontal */
+    align-items: center; /* vertical */
+}
