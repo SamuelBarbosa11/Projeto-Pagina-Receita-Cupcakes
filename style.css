@@ -16,6 +16,10 @@ body{
     background-size: cover;
 }
 
+main {
+    margin: 24px;
+}
+
 img {
     border-radius: 16px;
 }
@@ -36,7 +40,19 @@ h2 {
     line-height: 150%;
     font-size: 24px;
 }
-
 h1, h2 {
     color: #291B1A;
+    margin-bottom: 4px;
+}
+
+#about p + p{
+    margin-top: 12px;
+}
+
+section + section {
+    margin-top: 24px;
+}
+
+ul {
+    padding-left: 26px;
 }
