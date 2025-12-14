@@ -1,1 +1,1 @@
-Esse é um repositório para a minha versão do projeto de Página de Receita da Rocketseat na minha formação Full Stack
+Esse é um projeto que venho trabalhando de uma Página de Receita de Cupcakes para testar minhas habilidades de HTML e CSS, contribuindo para a minha formação Full Stack
