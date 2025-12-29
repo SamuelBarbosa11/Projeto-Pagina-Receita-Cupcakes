@@ -1,4 +1,4 @@
-![Uploading Pagina Receita.jpg…]()
+![Receita Cupcakes](https://github.com/user-attachments/assets/4da1336e-8a2f-47b9-b950-69225cdb5b50)
 
 🧁 Página de Receita – Cupcake de Café
 
